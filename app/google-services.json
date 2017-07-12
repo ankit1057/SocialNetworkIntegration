@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536880780060",
+    "project_id": "firebase-inventory-management"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536880780060:android:2fb6a9daf3672f1a",
+        "android_client_info": {
+          "package_name": "com.socialnetworkintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536880780060-ocbqe9ksu6st07ac9k73p07d3gcjt2ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialnetworkintegration",
+            "certificate_hash": "1e3117132ab146f7019fa83719d533202140e91d"
+          }
+        },
+        {
+          "client_id": "536880780060-82dfdfttsqrpoi54ru7cur8p2hn83326.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzC80CnoBXNdfSVmrFWZroFTKGTjXC3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

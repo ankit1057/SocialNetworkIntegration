@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">SocialNetworkIntegration</string>
+    <string name="CONSUMER_KEY" android:name="com.twitter.sdk.android.CONSUMER_KEY">XXXXXXXXXXX</string>
+    <string name="CONSUMER_SECRET" android:name="com.twitter.sdk.android.CONSUMER_SECRET">XXXXXXXXXXX</string>
+    <string name="facebook_app_id">1571438212928695</string>
+</resources>
